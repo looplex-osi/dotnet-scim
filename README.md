@@ -1,2 +1,2 @@
-# dotnet-foundation
-Contains the Looplex.Foundation solution.
+# dotnet-scim
+Contains the Looplex.SCIMv2 project.
