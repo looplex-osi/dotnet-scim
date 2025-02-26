@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <IsPackable>true</IsPackable>
+    <PackageId>Looplex.SCIMv2</PackageId>
+    <Authors>Guilherme Câmara</Authors>
+    <Company>Looplex</Company>
+    <PackageTags>Looplex;SCIM;SCIMv2;Backend;</PackageTags>
+    <Description>
+      Looplex package that contains foundation/core code for projects with Hexagonal/Micro-Kernel architectures.
+    </Description>
+  </PropertyGroup>
+
+</Project>
