@@ -9,7 +9,7 @@
     <Company>Looplex</Company>
     <PackageTags>Looplex;SCIM;SCIMv2;Backend;</PackageTags>
     <Description>
-      Looplex package that contains foundation/core code for projects with Hexagonal/Micro-Kernel architectures.
+      Looplex package that contains code for projects with SCIMv2 conventions.
     </Description>
   </PropertyGroup>
 
