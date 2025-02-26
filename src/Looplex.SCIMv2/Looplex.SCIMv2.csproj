@@ -5,6 +5,10 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <IsPackable>true</IsPackable>
     <PackageId>Looplex.SCIMv2</PackageId>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseUrl>https://github.com/looplex-osi/dotnet-scim/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/looplex-osi/dotnet-scim</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>Guilherme Câmara</Authors>
     <Company>Looplex</Company>
     <PackageTags>Looplex;SCIM;SCIMv2;Backend;</PackageTags>
